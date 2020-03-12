@@ -1,0 +1,5 @@
+fastq/*.fastq.gz
+reference/*.fa
+reference/*.fa.*
+bam/*.bam
+bam/*.bai
