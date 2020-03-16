@@ -1,5 +1,9 @@
 fastq/*.fastq.gz
-reference/*.fa
-reference/*.fa.*
+reference/chr11.*
 bam/*.bam
 bam/*.bai
+dbSNP/*.gz
+dbSNP/*.tbi
+dataSource/
+tmp/
+vcf/
